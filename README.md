@@ -1,10 +1,5 @@
 # Production-Ready Refund Agent Workshop
 
-This is a **local-first teaching package**. It uses Ollama so participants do
-not need API keys, cloud credits, Docker, databases, or a running web server.
-
-## Learning path
-
 1. **LLM only** — plausible language is not a grounded decision.
 2. **Trusted tools** — connect the model to systems of record.
 3. **Semantic RAG** — retrieve policy with local embeddings.
